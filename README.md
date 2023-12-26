@@ -27,7 +27,12 @@ this page change based on your browser theme color
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github_darkmode.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40">
+</picture>
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -47,7 +52,6 @@ this page change based on your browser theme color
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=500&pause=999999&color=0CE82B&background=FFFFFF&center=true&vCenter=true&multiline=false&width=145&height=50&lines=Github+stats_">
 </picture>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anassbenzanzoun/anassbenzanzoun/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anassbenzanzoun/anassbenzanzoun/output/snake-light.svg" />
@@ -60,7 +64,6 @@ this page change based on your browser theme color
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anassbenzanzoun&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false" />
   <img alt="github stats" src="" />
 </picture>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anassbenzanzoun&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
