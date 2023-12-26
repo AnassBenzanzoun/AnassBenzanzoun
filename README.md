@@ -60,8 +60,19 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-![](https://github-readme-stats.vercel.app/api?username=anassbenzanzoun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anassbenzanzoun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anassbenzanzoun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anassbenzanzoun&show_icons=true&locale=en" />
+  <img alt="github stats" src="" />
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anassbenzanzoun&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anassbenzanzoun&show_icons=true&locale=en&layout=compact"/>
+  <img alt="github stats" src="" />
+</picture>
+
 
 ```yaml
 Quote: Always code as if the guy who ends up maintaining your code is a violent psychopath who knows where you live. Code for readability.
