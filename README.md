@@ -3,13 +3,13 @@ this page change based on your browser theme color
 </sup></sub>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=75&duration=3000&pause=100&color=0CE82B&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=1920&height=384&lines=Hello%2C+World;My+name+is+Anass+Benzanzoun;Welcome+to+my+README">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=75&duration=3000&pause=100&color=0CE82B&background=FFFFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1920&height=384&lines=Hello%2C+World;My+name+is+Anass+Benzanzoun;Welcome+to+my+README">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=75&duration=2000&pause=100&color=0CE82B&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=1920&height=384&lines=Hello%2C+World;My+name+is+Anass+Benzanzoun;Welcome+to+my+README">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=500&size=75&duration=2000&pause=100&color=0CE82B&background=FFFFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1920&height=384&lines=Hello%2C+World;My+name+is+Anass+Benzanzoun;Welcome+to+my+README">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&weight=900&duration=3000&pause=100&color=0CE82B&background=0D1117&center=true&repeat=false&vCenter=true&multiline=false&width=210&height=50&lines=Language+and+Tools_;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=20&pause=99999&color=0CE82B&background=FFFFFFFF&center=true&vCenter=true&multiline=false&width=210&height=50&lines=Language+and+Tools_">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=FFFFFFFF&center=true&repeat=false&vCenter=true&multiline=false&width=210&height=50&lines=Language+and+Tools_">
 </picture>
 
 <div align="left">
@@ -48,8 +48,8 @@ this page change based on your browser theme color
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=500&pause=999999&color=0CE82B&background=0D1117&center=true&vCenter=true&multiline=false&width=145&height=50&lines=Github+stats_">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=500&pause=999999&color=0CE82B&background=FFFFFF&center=true&vCenter=true&multiline=false&width=145&height=50&lines=Github+stats_">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=0D1117&center=true&repeat=false&vCenter=true&multiline=false&width=145&height=50&lines=Github+stats_">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=FFFFFF&center=true&&repeat=falsevCenter=true&multiline=false&width=145&height=50&lines=Github+stats_">
 </picture>
 
 <picture>
@@ -73,8 +73,8 @@ this page change based on your browser theme color
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=500&pause=999999&color=0CE82B&background=0D1117&center=true&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=20&pause=999999&color=0CE82B&background=FFFFFFFF&center=true&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=0D1117&center=true&repeat=false&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=FFFFFFFF&repeat=false&center=true&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
 </picture>
 
 <div align="left">
