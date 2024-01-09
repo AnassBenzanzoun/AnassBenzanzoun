@@ -72,10 +72,15 @@ this page change based on your browser theme color
 </picture>
 </div>
 
+<div align="left">
+  <img src="https://profile-counter.glitch.me/AnassBenzanzoun/count.svg?"  />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=0D1117&center=true&repeat=false&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=900&size=22&duration=3000&pause=100&color=0CE82B&background=FFFFFFFF&repeat=false&center=true&vCenter=true&multiline=false&width=178&height=50&lines=Connect+with+me_">
 </picture>
+
 
 <div align="left">
 <a href="https://discord.com/users/anassbenzanzoun_25900" target="_blank">
@@ -94,6 +99,7 @@ this page change based on your browser theme color
   <img src="https://img.shields.io/static/v1?message=Codewars&logo=CodeWars&label=&color=B1361E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
