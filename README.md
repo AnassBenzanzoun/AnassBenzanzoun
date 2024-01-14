@@ -72,7 +72,7 @@ this page change based on your browser theme color
 </picture>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/AnassBenzanzoun/count.svg?"  />
 </div>
 
